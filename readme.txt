@@ -1,6 +1,6 @@
-=== Miyazaki ===
-Contributors: Anlino
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=anders%40andersnoren%2ese&lc=US&item_name=Free%20WordPress%20Themes%20from%20Anders%20Noren&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+=== Solaris ===
+Contributors: Jeevan Jonas
+
 Requires at least: 4.5
 Requires PHP: 5.4
 Tested up to: 5.5.1
@@ -29,25 +29,14 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Licenses ==
 
-Charis SIL font
-License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
-Source: https://software.sil.org/charis/
 
-Teko font
-License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
-Source: https://fonts.google.com/specimen/Teko
 
 Custom Made Icons and Fallback Image
 License: GPLv2, https://www.gnu.org/licenses/gpl-2.0.html
 
-Images in screenshot.png from Pixabay
 License: Creative Commons Zero (CC0), https://creativecommons.org/publicdomain/zero/1.0/
 Source: https://www.pixabay.com/
-Images (top left to bottom right):
-- Polygon Rabbit: https://pixabay.com/sv/små-poly-djur-vektor-konst-polygon-3350170/
-- Polygon Owl: https://www.pexels.com/photo/architecture-building-cars-pavement-169572/
-- Polygon Deer: https://pixabay.com/sv/hjort-polygoner-konst-design-natur-3275594/
-- Polygon Dog: https://pixabay.com/sv/hund-illustration-bakgrund-porträtt-3275593/
+
 
 
 == Changelog ==
